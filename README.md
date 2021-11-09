@@ -1,5 +1,8 @@
 # Pokedex
+
+![](Pokedex1.gif)
 API Fetch for Pokedex project for Upgrade HUB
+
 I've created this Pokedex API fetch as part of the Upgrade Hub program. 
 
 La idea es crear un array con cada nueva promesa que nos da el for loop de los resultados que la API devuelve. Para esto usamos "push".
