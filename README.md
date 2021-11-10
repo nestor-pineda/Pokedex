@@ -1,6 +1,6 @@
 # Pokedex
 
-![](Pokedex1.gif)
+![](Pokemon-pokedex.gif)
 
 Fetch con la API de Pokemon para el proyecto de Upgrade Hub
 
